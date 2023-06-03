@@ -1,0 +1,44 @@
+.text {
+    color: var(--primary-color);
+    white-space: normal;
+}
+
+.primary {
+    color: var(--primary-color);
+}
+
+.red {
+    color: var(--dark-red-color);
+}
+
+.m-size {
+    .title {
+        font: var(--font-l);
+    }
+
+    .text {
+        font: var(--font-m);
+    }
+}
+
+.l-size {
+    .title {
+        font: var(--font-xl);
+    }
+
+    .text {
+        font: var(--font-l);
+    }
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}

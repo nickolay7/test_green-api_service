@@ -1,0 +1,20 @@
+.addPhone {
+    margin-top: 10px;
+    display: none;
+}
+
+.opened {
+    display: block;
+}
+
+.chatList {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.active {
+    background: #a18d2f;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
